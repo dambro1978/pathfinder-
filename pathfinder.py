@@ -296,4 +296,5 @@ def build_optimized_query(conn, start_table, end_table, select_columns=None):
 # ----------------------------
 # Author
 # ----------------------------
-# powered and created by Giuseppe D'Ambrosio
+# powered and created by Giuseppe D'Ambrosio at Noahdambrosio.com
+# find us at https://noahdambrosio.com
